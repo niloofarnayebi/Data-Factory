@@ -75,11 +75,11 @@
 		"parameters": {
 			"inputPath": {
 				"type": "string",
-				"defaultValue": "/dwtemp"
+				"defaultValue": "/"
 			},
 			"outputPath": {
 				"type": "string",
-				"defaultValue": "/dwtemp"
+				"defaultValue": "/"
 			},
 			"fileName": {
 				"type": "string",

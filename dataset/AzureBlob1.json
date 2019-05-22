@@ -13,9 +13,9 @@
 				"rowDelimiter": "",
 				"treatEmptyAsNull": true,
 				"skipLineCount": 0,
-				"firstRowAsHeader": false
+				"firstRowAsHeader": true
 			},
-			"fileName": "",
+			"fileName": "Product.csv",
 			"folderPath": "dwtemp"
 		}
 	}

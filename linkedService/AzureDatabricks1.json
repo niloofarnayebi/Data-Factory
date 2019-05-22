@@ -5,13 +5,8 @@
 		"type": "AzureDatabricks",
 		"typeProperties": {
 			"domain": "https://centralus.azuredatabricks.net",
-			"newClusterNodeType": "Standard_DS3_v2",
-			"newClusterNumOfWorker": "1:2",
-			"newClusterSparkEnvVars": {
-				"PYSPARK_PYTHON": "/databricks/python3/bin/python3"
-			},
-			"newClusterVersion": "5.3.x-scala2.11",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkNBTEdBUllERkRFTU9fZDlmYTFmZmItZTQwNC00ZGY0LTljMjctNzE3MDQyYmZhNThmIg0KfQ=="
+			"existingClusterId": "0522-193831-lank581",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkNBTEdBUllERkRFTU9fNTk5Y2QwYjQtOTU4Zi00Y2M2LTllYTktNjJjNDY0Yzg1YTlkIg0KfQ=="
 		}
 	}
 }

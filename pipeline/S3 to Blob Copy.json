@@ -75,11 +75,11 @@
 		"parameters": {
 			"inputPath": {
 				"type": "string",
-				"defaultValue": "/staged_sink"
+				"defaultValue": "/dwtemp"
 			},
 			"outputPath": {
 				"type": "string",
-				"defaultValue": "/processed_sink"
+				"defaultValue": "/dwtemp"
 			},
 			"fileName": {
 				"type": "string",
